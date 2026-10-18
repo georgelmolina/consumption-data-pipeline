@@ -1,0 +1,17 @@
+Column,P_A1_24,P_A2_24,P_B1_24,P_A1_25,P_A2_25,P_B1_25
+ad_auramix,No,No,Yes,Yes,Yes,Yes
+ad_aut_dynamon,No,Yes,No,No,Yes,No
+ad_complast_mr,Yes,Yes,No,Yes,Yes,No
+ad_dynamon_sx,Yes,Yes,Yes,Yes,Yes,Yes
+arid_04,Yes,Yes,Yes,Yes,Yes,Yes
+arid_12_20,Yes,Yes,Yes,Yes,Yes,Yes
+arid_8_14,Yes,Yes,Yes,Yes,Yes,Yes
+cement_3a_42,Yes,No,Yes,No,No,Yes
+cement_42_5r,Yes,Yes,No,Yes,Yes,Yes
+cement_4av,Yes,Yes,No,Yes,No,No
+corrective_02,No,No,Yes,No,No,Yes
+date,Yes,Yes,Yes,Yes,Yes,Yes
+plant,Yes,Yes,Yes,Yes,Yes,Yes
+product,Yes,Yes,Yes,Yes,Yes,Yes
+volume,Yes,Yes,Yes,Yes,Yes,Yes
+water,Yes,Yes,Yes,Yes,Yes,Yes

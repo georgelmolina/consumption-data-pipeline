@@ -1,0 +1,29 @@
+# Copy this file to config/config.yaml. Paths are relative to the project root
+# (the folder that contains config/, data/ and notebooks/); notebooks resolve them automatically.
+
+# Raw
+## 2024
+P_A1_24_path: data/raw/consumos_albaran_2024/P_A1/Consumos_Albarán_20260122_074040.xlsx
+P_A2_24_path: data/raw/consumos_albaran_2024/P_A2/Consumos_Albarán_20260122_072423.xlsx
+P_B1_24_path: data/raw/consumos_albaran_2024/P_B1/Consumos_Albarán_20260121_162839.xlsx
+## 2025
+P_A1_25_path: data/raw/consumos_albaran_2025/P_A1/Consumos_Albarán_20260122_073933.xlsx
+P_A2_25_path: data/raw/consumos_albaran_2025/P_A2/Consumos_Albarán_20260122_072349.xlsx
+P_B1_25_path: data/raw/consumos_albaran_2025/P_B1/Consumos_Albarán_20260121_163048.xlsx
+
+# Processed
+## 2024
+P_A1_24_ready_csv_path: data/processed/2024/P_A1_24_ready.csv
+P_A2_24_ready_csv_path: data/processed/2024/P_A2_24_ready.csv
+P_B1_24_ready_csv_path: data/processed/2024/P_B1_24_ready.csv
+## 2025
+P_A1_25_ready_csv_path: data/processed/2025/P_A1_25_tested_and_ready.csv
+P_A2_25_ready_csv_path: data/processed/2025/P_A2_25_ready.csv
+P_B1_25_ready_csv_path: data/processed/2025/P_B1_25_ready.csv
+# from 01_testing.ipynb
+P_A1_25_function_tested_csv_path: data/processed/2025/P_A1_25_function_tested.csv
+## Used by 04_merge.ipynb (the write is commented out in the notebook)
+merged_ready_csv_path: data/processed/Merged_raw_data.csv
+
+# Draft, exploring anomalies (05_draft_exploration; input file is not included in the repo)
+P_A1_25_clean_path: data/processed/2025/P_A1_25_clean.xlsx

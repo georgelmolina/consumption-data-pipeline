@@ -1,0 +1,48 @@
+# Python >= 3.11 required (pandas 3.x / numpy 2.4.x)
+# Core data
+numpy==2.4.4
+pandas==3.0.1
+python-dateutil==2.9.0.post0
+tzdata==2025.3
+
+# Excel / file I/O
+et_xmlfile==2.0.0
+openpyxl==3.1.5
+PyYAML==6.0.3
+
+# Jupyter / notebook
+jupyterlab>=4
+comm==0.2.3
+ipykernel==7.2.0
+ipython==9.10.1
+ipython_pygments_lexers==1.1.1
+jupyter_client==8.8.0
+jupyter_core==5.9.1
+matplotlib-inline==0.2.1
+nest-asyncio==1.6.0
+pyzmq==27.1.0
+tornado==6.5.5
+traitlets==5.14.3
+
+# Debugging / tracing
+asttokens==3.0.1
+debugpy==1.8.20
+executing==2.2.1
+pure_eval==0.2.3
+stack-data==0.6.3
+
+# IPython support
+decorator==5.2.1
+jedi==0.19.2
+parso==0.8.6
+prompt_toolkit==3.0.52
+Pygments==2.20.0
+
+# Utilities
+colorama==0.4.6
+packaging==25.0
+platformdirs==4.9.4
+psutil==7.2.2
+six==1.17.0
+typing_extensions==4.15.0
+wcwidth==0.6.0

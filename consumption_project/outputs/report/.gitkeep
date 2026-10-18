@@ -1,0 +1,3 @@
+# .gitkeep: placeholder so git publishes this otherwise empty folder (git only tracks files, not folders).
+# It is only a naming convention; git gives it no special meaning.
+# Opposite of .gitignore, which tells git which files to leave out of the repo.
